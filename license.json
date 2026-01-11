@@ -1,3 +1,12 @@
 {
-  "DC93C0BD-2D099EA755BC": 1768494257
+  "maintenance": false,
+  "message": "Mod Aktif - @AdminGhost01",
+  "keys": {
+    "AdminGhost01": {
+      "status": "valid",
+      "expiry": "2027-12-31T23:59:59",
+      "device_limit": 25,
+      "created_at": "2026-01-11T19:00:00"
+    }
+  }
 }
